@@ -7,4 +7,4 @@ http://data.okfn.org/data/core/population
 3. pygal_maps_world.i18n
 4. pygal.maps.world
 ## ScreenShot
-![](https://github.com/samnew/world_population_map/blob/master/world_population.svg)
+![](https://raw.githubusercontent.com/samnew/world_population_map/master/screenshots/screenshot.png)
